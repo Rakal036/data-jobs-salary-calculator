@@ -2,7 +2,6 @@
 
 An interactive Excel tool that shows the **median salary**, the **number of postings with salary data** and the **top job platform** for any combination of job title, country and schedule type. It's built on **32,000+ data-job postings from 2023**.
 
-![Calculator preview](images/calculator.png)
 
 ## How it works
 Pick a **Job Title**, **Country** and **Type** from the dropdowns. Everything updates instantly:
